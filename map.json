@@ -898,8 +898,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":321,
-         "source":"doors3.tsx"
+         "image":"doors.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"doors3",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
